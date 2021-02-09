@@ -2,6 +2,11 @@
 
 I am a Network and Information Security Analyst currently working on obtaining my OSCP and GSEC certifications. Currently working on "Blue team" via live enviroments such as VM Cloud/Clustered Nodes, Web Applications (Apache/Nginx, PHP, Etc...), Unix Systems, Windows LDAP (Full domain environments), and overall Network Exploitation. Owner of a small VPS/Cloud web hosting solution using Proxmox and VMware/Hypervisor or KVM Solutions. My code may not look the best, but it works! 
 
+💻 Currently working on: 
+- [GridTrex](https://github.com/X1pe0/GridTrex): IoT Scanner
+- [BitRAT](https://github.com/X1pe0/bitrat): Basic P2P RAT (Client->Server)
+## Need Anonymouys file hosting?
+- [NaByte](https://nabyte.com)
 <!--
 **X1pe0/X1pe0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
