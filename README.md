@@ -8,7 +8,7 @@ I am a Network and Information Security Analyst currently working on obtaining m
 
 ### PHP/HTML, Python, Perl, VB
 
-Need Anonymous file hosting?
+Need anonymous file hosting?
 - [NaByte](https://nabyte.com)
 <!--
 **X1pe0/X1pe0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
