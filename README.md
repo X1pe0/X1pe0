@@ -6,7 +6,12 @@ I am a Network and Information Security Analyst currently working on obtaining m
 - [GridTrex](https://github.com/X1pe0/GridTrex): IoT Scanner
 - [BitRAT](https://github.com/X1pe0/bitrat): Basic P2P RAT (Client->Server)
 
-### PHP/HTML, Python, Perl, VB
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Proxmox-informational?style=flat&logo=proxmox&logoColor=white&color=2bbc8a)
 
 Need anonymous file hosting?
 - [NaByte](https://nabyte.com)
