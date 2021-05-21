@@ -13,7 +13,7 @@ Network and Information Security. Currently working as "Blue team" via live envi
 ![](https://img.shields.io/badge/Tools-Proxmox-informational?style=flat&logo=proxmox&logoColor=white&color=2bbc8a)
 
 Need anonymous file hosting?
-- [NaByte](https://nabyte.com)
+- [NaByte](https://nabyte.com) Public Key: bvTx24cEIegrHyz5LkBJm9uG Send me stuff!
 <!--
 **X1pe0/X1pe0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
