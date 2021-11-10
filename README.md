@@ -12,6 +12,11 @@ Network and Information Security. Currently working as "Blue team" via live envi
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Proxmox-informational?style=flat&logo=proxmox&logoColor=white&color=2bbc8a)
 
+###### Profile Hits:   
+<img src=https://profile-counter.glitch.me/X1pe0/count.svg>
+
+
+
 Need anonymous file hosting?
 - [NaByte](https://nabyte.com) Public Key: bvTx24cEIegrHyz5LkBJm9uG Send me stuff!
 <!--
