@@ -13,7 +13,7 @@ Network and Information Security. Currently working as "Blue team" via live envi
 ![](https://img.shields.io/badge/Tools-Proxmox-informational?style=flat&logo=proxmox&logoColor=white&color=2bbc8a)
 
 ###### Profile Hits:   
-<img src=https://profile-counter.glitch.me/X1pe0/count.svg>
+<img src="https://counter.bitnix.app/stats?id=67a96cde9d019dd152dad876fb86212a">
 
 
 
