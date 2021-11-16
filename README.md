@@ -1,6 +1,6 @@
 ### 💬 Hi there,
 
-Network and Information Security. Currently working as "Blue team" via live enviroments such as VM Cloud/Clustered Nodes, Web Applications (Apache/Nginx, PHP, Etc...), Unix Systems, Windows LDAP (Full domain environments), and overall Network Exploitation. Owner of a small VPS/Cloud web hosting solution using Proxmox and VMware/Hypervisor or KVM Solutions. My code may not look the best, but it works! 
+Network and Information Security. Currently working as "Blue team" via live enviroments such as VM Cloud/Clustered Nodes, Web Applications (Apache/Nginx, PHP, Etc...), Unix Systems, Windows LDAP (Full domain environments), and overall Network exploitation utilizing Digital Forensics, Malware analysis/Reverse Engineering, and Detection Engineering; running risk assessments following NIST and GSEC standards. Owner of a small VPS/Cloud web hosting solution using Proxmox and VMware/Hypervisor or KVM Solutions. My code may not look the best, but it works! 
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=X1pe0&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
