@@ -2,7 +2,7 @@
 
 Network and Information Security. Currently working as "Blue team" via live environments such as VM Cloud/Clustered Nodes, Web Applications (Apache/Nginx, PHP, Etc...), Unix Systems, Windows LDAP (Full domain environments), and overall Network exploitation. 
 
-Digital Forensics, Malware analysis/Reverse Engineering, and Detection Engineering. 
+Currently interested in Digital Forensics, Malware analysis/Reverse Engineering, and Detection Engineering. 
 
 Owner of a small VPS/Cloud web hosting solution using Proxmox and VMware/Hypervisor or KVM Solutions. My code may not look the best, but it works! 
 
